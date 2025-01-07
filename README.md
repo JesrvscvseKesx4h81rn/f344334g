@@ -4,3 +4,5 @@ Improve performance [wAWtxO] line 6.1
 Add feature for X [sGhTdR] line 7.1
 Update documentation [Trmr4X] line 8.1
 Fix issue in Y [EzeRLu] line 9.2
+Improve performance [h8LJlb] line 11.2
+Improve performance [h8LJlb] line 11.3
