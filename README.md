@@ -6,3 +6,4 @@ Update documentation [Trmr4X] line 8.1
 Fix issue in Y [EzeRLu] line 9.2
 Improve performance [h8LJlb] line 11.2
 Improve performance [h8LJlb] line 11.3
+Add test case for W [PpNgFw] line 12.1
